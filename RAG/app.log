@@ -1,0 +1,30 @@
+2025-08-24 20:55:43,368 - __main__ - INFO - Application started
+2025-08-24 20:55:43,370 - __main__ - WARNING - This is a warning
+2025-08-24 20:55:43,375 - __main__ - ERROR - An error occurred
+2025-08-24 20:55:56,224 - __main__ - INFO - Application started
+2025-08-24 20:55:56,225 - __main__ - WARNING - This is a warning
+2025-08-24 20:55:56,227 - __main__ - ERROR - An error occurred
+2025-08-24 20:56:00,089 - __main__ - INFO - Application started
+2025-08-24 20:56:00,091 - __main__ - WARNING - This is a warning
+2025-08-24 20:56:00,092 - __main__ - ERROR - An error occurred
+2025-08-24 20:56:38,046 - __main__ - INFO - Application started
+2025-08-24 20:56:38,049 - __main__ - WARNING - This is a warning
+2025-08-24 20:56:38,052 - __main__ - ERROR - An error occurred
+2025-08-24 20:56:44,389 - __main__ - INFO - Application started
+2025-08-24 20:56:44,389 - __main__ - WARNING - This is a warning
+2025-08-24 20:56:44,393 - __main__ - ERROR - An error occurred
+2025-08-24 20:58:27,253 - GenAIApp - INFO - Received prompt: Explain quantum computing in simple terms.
+2025-08-24 20:58:27,255 - GenAIApp - INFO - Response generated in 0.00s
+2025-08-24 20:58:27,256 - GenAIApp - INFO - Final response sent to user: Generated response to: Explain quantum computing in simple terms....
+2025-08-24 21:03:15,164 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:03:28,515 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:04:33,623 - GenAIApp - INFO - Received prompt: Explain quantum computing in simple terms.
+2025-08-24 21:04:35,528 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-24 21:04:35,529 - GenAIApp - INFO - Response generated in 1.90s
+2025-08-24 21:04:35,529 - GenAIApp - INFO - Final response sent to user: Generated response to: Explain quantum computing in simple terms. is  : Quantum computing is a type of computing that uses quantum mechanics to process information. In traditional computers, information is represented in bits, which can be either a 0 or a 1. In quantum computers, information is represented in quantum bits, or qubits, which can be both a 0 and a 1 at the same time. This allows quantum computers to perform calculations much faster and more efficiently than traditional computers. Quantum computing has the potential to solve complex problems that are currently impossible for traditional computers to solve.
+2025-08-25 09:44:41,214 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-25 09:44:45,012 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-25 09:46:48,364 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-25 09:46:51,248 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-25 09:46:52,247 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-25 09:55:02,940 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
